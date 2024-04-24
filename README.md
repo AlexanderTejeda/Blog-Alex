@@ -1,2 +1,2 @@
 # Blog-Alex
-Proyecto de prueba para particar comandos de git
+Proyecto de prueba para practicar comandos de git
